@@ -1,5 +1,5 @@
 _repo: Speeches-Literary-and-Social_824
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 824-h/images/coverb.jpg
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Literature -- History and criticism'
 - !lcc 'PN'
 - !lcc 'PR'
+- GITenberg
 title: 'Speeches: Literary and Social'
 url: http://www.gutenberg.org/ebooks/824
